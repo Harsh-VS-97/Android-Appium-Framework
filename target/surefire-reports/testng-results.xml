@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-20T19:51:10 IST" name="Suite" finished-at="2024-11-20T19:54:37 IST" duration-ms="207509">
+    <groups>
+    </groups>
+    <test started-at="2024-11-20T19:51:10 IST" name="Test" finished-at="2024-11-20T19:54:37 IST" duration-ms="207509">
+      <class name="android_TestScripts.Android_TC004_DataDrivenTest">
+        <test-method is-config="true" signature="AndroidAppiumSetup()[pri:0, instance:android_TestScripts.Android_TC004_DataDrivenTest@3e694b3f]" started-at="2024-11-20T19:53:05 IST" name="AndroidAppiumSetup" finished-at="2024-11-20T19:53:12 IST" duration-ms="6558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumSetup -->
+        <test-method signature="FormDataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:android_TestScripts.Android_TC004_DataDrivenTest@3e694b3f]" started-at="2024-11-20T19:53:12 IST" name="FormDataDrivenTest" data-provider="FormDataProvider" finished-at="2024-11-20T19:53:31 IST" duration-ms="19105" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selena]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Brazil]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormDataDrivenTest -->
+        <test-method is-config="true" signature="AndroidAppiumTeardown()[pri:0, instance:android_TestScripts.Android_TC004_DataDrivenTest@3e694b3f]" started-at="2024-11-20T19:53:31 IST" name="AndroidAppiumTeardown" finished-at="2024-11-20T19:53:31 IST" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumTeardown -->
+        <test-method is-config="true" signature="AndroidAppiumSetup()[pri:0, instance:android_TestScripts.Android_TC004_DataDrivenTest@3e694b3f]" started-at="2024-11-20T19:53:31 IST" name="AndroidAppiumSetup" finished-at="2024-11-20T19:53:38 IST" duration-ms="6506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumSetup -->
+        <test-method signature="FormDataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:android_TestScripts.Android_TC004_DataDrivenTest@3e694b3f]" started-at="2024-11-20T19:53:38 IST" name="FormDataDrivenTest" data-provider="FormDataProvider" finished-at="2024-11-20T19:53:54 IST" duration-ms="15649" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[George]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Argentina]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormDataDrivenTest -->
+        <test-method is-config="true" signature="AndroidAppiumTeardown()[pri:0, instance:android_TestScripts.Android_TC004_DataDrivenTest@3e694b3f]" started-at="2024-11-20T19:53:54 IST" name="AndroidAppiumTeardown" finished-at="2024-11-20T19:53:54 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumTeardown -->
+        <test-method is-config="true" signature="AndroidAppiumSetup()[pri:0, instance:android_TestScripts.Android_TC004_DataDrivenTest@3e694b3f]" started-at="2024-11-20T19:53:54 IST" name="AndroidAppiumSetup" finished-at="2024-11-20T19:54:01 IST" duration-ms="6634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumSetup -->
+        <test-method signature="FormDataDrivenTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:android_TestScripts.Android_TC004_DataDrivenTest@3e694b3f]" started-at="2024-11-20T19:54:01 IST" name="FormDataDrivenTest" data-provider="FormDataProvider" finished-at="2024-11-20T19:54:37 IST" duration-ms="36404" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sudheer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormDataDrivenTest -->
+        <test-method is-config="true" signature="AndroidAppiumTeardown()[pri:0, instance:android_TestScripts.Android_TC004_DataDrivenTest@3e694b3f]" started-at="2024-11-20T19:54:37 IST" name="AndroidAppiumTeardown" finished-at="2024-11-20T19:54:37 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumTeardown -->
+      </class> <!-- android_TestScripts.Android_TC004_DataDrivenTest -->
+      <class name="android_TestScripts.Android_TC002">
+        <test-method is-config="true" signature="AndroidAppiumSetup()[pri:0, instance:android_TestScripts.Android_TC002@59474f18]" started-at="2024-11-20T19:51:49 IST" name="AndroidAppiumSetup" finished-at="2024-11-20T19:51:56 IST" duration-ms="6423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumSetup -->
+        <test-method signature="ProdCatalogTest()[pri:0, instance:android_TestScripts.Android_TC002@59474f18]" started-at="2024-11-20T19:51:56 IST" name="ProdCatalogTest" finished-at="2024-11-20T19:52:23 IST" duration-ms="27180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProdCatalogTest -->
+        <test-method is-config="true" signature="AndroidAppiumTeardown()[pri:0, instance:android_TestScripts.Android_TC002@59474f18]" started-at="2024-11-20T19:52:23 IST" name="AndroidAppiumTeardown" finished-at="2024-11-20T19:52:23 IST" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumTeardown -->
+      </class> <!-- android_TestScripts.Android_TC002 -->
+      <class name="android_TestScripts.Android_TC001">
+        <test-method is-config="true" signature="AndroidAppiumSetup()[pri:0, instance:android_TestScripts.Android_TC001@74f0ea28]" started-at="2024-11-20T19:51:10 IST" name="AndroidAppiumSetup" finished-at="2024-11-20T19:51:17 IST" duration-ms="6785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumSetup -->
+        <test-method signature="FormPageTest()[pri:1, instance:android_TestScripts.Android_TC001@74f0ea28]" started-at="2024-11-20T19:51:17 IST" name="FormPageTest" finished-at="2024-11-20T19:51:29 IST" duration-ms="12727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormPageTest -->
+        <test-method is-config="true" signature="AndroidAppiumTeardown()[pri:0, instance:android_TestScripts.Android_TC001@74f0ea28]" started-at="2024-11-20T19:51:29 IST" name="AndroidAppiumTeardown" finished-at="2024-11-20T19:51:30 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumTeardown -->
+        <test-method is-config="true" signature="AndroidAppiumSetup()[pri:0, instance:android_TestScripts.Android_TC001@74f0ea28]" started-at="2024-11-20T19:51:30 IST" name="AndroidAppiumSetup" finished-at="2024-11-20T19:51:36 IST" duration-ms="6537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumSetup -->
+        <test-method signature="FormPageToastMessageTest()[pri:2, instance:android_TestScripts.Android_TC001@74f0ea28]" started-at="2024-11-20T19:51:36 IST" name="FormPageToastMessageTest" finished-at="2024-11-20T19:51:49 IST" duration-ms="12497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormPageToastMessageTest -->
+        <test-method is-config="true" signature="AndroidAppiumTeardown()[pri:0, instance:android_TestScripts.Android_TC001@74f0ea28]" started-at="2024-11-20T19:51:49 IST" name="AndroidAppiumTeardown" finished-at="2024-11-20T19:51:49 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumTeardown -->
+      </class> <!-- android_TestScripts.Android_TC001 -->
+      <class name="android_TestScripts.Android_TC003">
+        <test-method is-config="true" signature="AndroidAppiumSetup()[pri:0, instance:android_TestScripts.Android_TC003@65fb9ffc]" started-at="2024-11-20T19:52:23 IST" name="AndroidAppiumSetup" finished-at="2024-11-20T19:52:30 IST" duration-ms="6469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumSetup -->
+        <test-method signature="CartTest()[pri:0, instance:android_TestScripts.Android_TC003@65fb9ffc]" started-at="2024-11-20T19:52:30 IST" name="CartTest" finished-at="2024-11-20T19:53:05 IST" duration-ms="34879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartTest -->
+        <test-method is-config="true" signature="AndroidAppiumTeardown()[pri:0, instance:android_TestScripts.Android_TC003@65fb9ffc]" started-at="2024-11-20T19:53:05 IST" name="AndroidAppiumTeardown" finished-at="2024-11-20T19:53:05 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumTeardown -->
+      </class> <!-- android_TestScripts.Android_TC003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

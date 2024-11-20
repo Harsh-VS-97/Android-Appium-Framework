@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-20T19:48:53 IST" name="Default suite" finished-at="2024-11-20T19:49:33 IST" duration-ms="39596">
+    <groups>
+    </groups>
+    <test started-at="2024-11-20T19:48:53 IST" name="Default test" finished-at="2024-11-20T19:49:33 IST" duration-ms="39596">
+      <class name="android_TestScripts.Android_TC001">
+        <test-method is-config="true" signature="AndroidAppiumSetup()[pri:0, instance:android_TestScripts.Android_TC001@4201c465]" started-at="2024-11-20T19:48:53 IST" name="AndroidAppiumSetup" finished-at="2024-11-20T19:49:00 IST" duration-ms="6973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumSetup -->
+        <test-method signature="FormPageTest()[pri:1, instance:android_TestScripts.Android_TC001@4201c465]" started-at="2024-11-20T19:49:00 IST" name="FormPageTest" finished-at="2024-11-20T19:49:14 IST" duration-ms="13290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormPageTest -->
+        <test-method is-config="true" signature="AndroidAppiumTeardown()[pri:0, instance:android_TestScripts.Android_TC001@4201c465]" started-at="2024-11-20T19:49:14 IST" name="AndroidAppiumTeardown" finished-at="2024-11-20T19:49:14 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumTeardown -->
+        <test-method is-config="true" signature="AndroidAppiumSetup()[pri:0, instance:android_TestScripts.Android_TC001@4201c465]" started-at="2024-11-20T19:49:14 IST" name="AndroidAppiumSetup" finished-at="2024-11-20T19:49:20 IST" duration-ms="6374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumSetup -->
+        <test-method signature="FormPageToastMessageTest()[pri:2, instance:android_TestScripts.Android_TC001@4201c465]" started-at="2024-11-20T19:49:20 IST" name="FormPageToastMessageTest" finished-at="2024-11-20T19:49:33 IST" duration-ms="12417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormPageToastMessageTest -->
+        <test-method is-config="true" signature="AndroidAppiumTeardown()[pri:0, instance:android_TestScripts.Android_TC001@4201c465]" started-at="2024-11-20T19:49:33 IST" name="AndroidAppiumTeardown" finished-at="2024-11-20T19:49:33 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidAppiumTeardown -->
+      </class> <!-- android_TestScripts.Android_TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
